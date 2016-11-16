@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 488 377" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 286.319489, 259.117981)" xlink:href="#pattern-0"/>
+    <pattern id="pattern-1" viewBox="0 0 4.935 176.246" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100">
+      <rect x="293.852" y="180.995" width="4.935" height="176.246" style="fill: url(#pattern-0-0);" transform="matrix(1, 0, 0, 1, -293.8519592285156, -180.9949951171875)"/>
+    </pattern>
+    <pattern id="pattern-2" viewBox="0 0 100 100" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100"/>
+    <pattern id="pattern-3" viewBox="0 0 100 100" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100"/>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Audiowide:400);</style>
+  </defs>
+  <rect x="19.093" y="224.238" width="444.475" height="8.803" style="stroke: rgb(255, 255, 255); fill: rgb(130, 130, 130);"/>
+  <path d="M 116.926 60.458" style="fill: none; stroke: black;"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -806.87924, -8.328291)" x="879.87" y="245.247" width="31.483" height="116.575" style="fill: rgb(166, 185, 193);"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -675.734465, 46.845306)" x="803.592" y="118.668" width="28.754" height="56.407" style="stroke: rgb(255, 255, 255); fill: rgb(205, 226, 181);"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -629.440947, 46.845306)" x="803.596" y="118.668" width="28.754" height="56.407" style="stroke: rgb(255, 255, 255); fill: rgb(205, 226, 181);"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -583.438628, 46.845306)" x="803.594" y="118.668" width="28.754" height="56.407" style="stroke: rgb(255, 255, 255); fill: rgb(205, 226, 181);"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -535.669585, 46.845276)" x="803.595" y="118.668" width="28.754" height="56.407" style="stroke: rgb(255, 255, 255); fill: rgb(205, 226, 181);"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -486.130553, 46.84523)" x="803.595" y="118.668" width="28.754" height="56.407" style="stroke: rgb(255, 255, 255); fill: rgb(205, 226, 181);"/>
+  <rect transform="matrix(1.000001, 0, 0, 1, -436.34564, 45.951874)" x="803.598" y="118.668" width="28.754" height="56.407" style="stroke: rgb(255, 255, 255); fill: rgb(205, 226, 181);"/>
+  <rect transform="matrix(0.999997, 0, 0, 1, 78.454863, -125.730743)" x="318.454" y="235.38" width="11.395" height="111.884" style="stroke: rgb(255, 255, 255); fill: rgb(185, 116, 116);"/>
+  <rect transform="matrix(NaN, NaN, NaN, NaN, NaN, NaN)" style="fill: rgb(216, 216, 216);"/>
+  <path d="M 36.934 105.253 L 179.75 104.901 L 180.298 93.84 C 178.533 90.185 178.845 85.732 143.293 81.196 C 146.68 81.293 132.923 66.866 120.905 63.752 C 109.947 61.134 97.218 61.361 86.628 62.423 C 78.312 63.257 63.174 65 57.131 68.453 C 48.028 71.349 39.9 80.201 42.058 79.514 C 40.232 79.879 37.14 89.824 38.007 89.651 C 37.183 89.651 36.732 105.253 36.934 105.253 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(134, 134, 134);"/>
+  <path transform="matrix(1.000002, 0, 0, 0.999999, -488.727445, -141.134396)" d="M 556 250 m -11.614 0 a 11.614 10.207 0 1 0 23.228 0 a 11.614 10.207 0 1 0 -23.228 0 Z M 556 250 m -3.098 0 a 3.098 2.956 0 0 1 6.196 0 a 3.098 2.956 0 0 1 -6.196 0 Z" style="stroke: rgb(255, 255, 255); stroke-width: 3; fill: rgb(134, 134, 134);" bx:shape="ring 556 250 3.098 2.956 11.614 10.207 1@78c935b8"/>
+  <path transform="matrix(1.000001, 0, 0, 1, -422.912138, -142.190445)" d="M 556 250 m -11.614 0 a 11.614 10.207 0 1 0 23.228 0 a 11.614 10.207 0 1 0 -23.228 0 Z M 556 250 m -3.098 0 a 3.098 2.956 0 0 1 6.196 0 a 3.098 2.956 0 0 1 -6.196 0 Z" style="stroke: rgb(255, 255, 255); stroke-width: 3; fill: rgb(134, 134, 134);" bx:shape="ring 556 250 3.098 2.956 11.614 10.207 1@78c935b8"/>
+  <path d="M 54.534 82.74 C 50.768 82.471 80.498 81.349 80.498 81.349 L 80.849 70.81 C 69.714 70.891 56.993 76.268 54.534 82.74 Z" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+  <path d="M 88.489 70.104 C 87.193 74.505 87.65 81.815 88.282 81.973 L 133.469 82.532 C 129.642 73.897 117.479 71.196 115.49 70.539 C 107.948 68.048 93.506 69.695 88.489 70.104 Z" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+  <rect x="264.799" y="62.089" width="93.031" height="45.458" style="fill: rgb(134, 134, 134);"/>
+  <rect transform="matrix(0.999996, 0, 0, 1, -829.369169, -169.431251)" x="1161.832" y="179.719" width="13.743" height="38.058" style="fill: rgb(134, 134, 134);"/>
+  <rect transform="matrix(1.000003, 0, 0, 1, -829.383134, -155.085594)" x="1150.208" y="231.975" width="20.086" height="30.863" style="fill: rgb(255, 255, 255);"/>
+  <rect transform="matrix(0.999993, 0, 0, 1, -1245.667786, -178.590012)" x="1521.899" y="246.811" width="13.12" height="17.551" style="fill: rgb(255, 255, 255);"/>
+  <rect x="294.65" y="68.176" width="12.936" height="17.389" style="fill: rgb(255, 255, 255);"/>
+  <path d="M 311.403 19.991 L 375.89 61.221 L 246.915 61.221 L 311.403 19.991 Z" style="stroke: rgb(255, 255, 255); stroke-width: 2; fill: rgb(134, 134, 134);" bx:shape="triangle 246.915 19.991 128.975 41.23 0.5 0 1@ef906588"/>
+  <text x="11.699" y="175.23" style="fill: rgb(191, 104, 104); font-family: Audiowide; font-size: 36px; font-style: italic; white-space: pre;">Y.T.M</text>
+  <rect x="168.439" y="268.69" width="3.495" height="97.829" style="stroke-width: 0; stroke: rgb(64, 64, 64); fill: rgb(82, 82, 82);"/>
+  <rect x="171.585" y="363.199" width="226.041" height="3.32" style="stroke-width: 0; stroke: rgb(64, 64, 64); fill: rgb(82, 82, 82);"/>
+  <path d="M 184.962 351.997 C 183.211 352.544 198.471 314.013 200.689 311.283 C 206.743 303.333 234.373 294.158 239.994 291.529 C 246.3 288.579 297.926 277.634 307.72 275.808 C 313.416 274.746 372.263 266.081 382.702 266.737 L 382.702 269.761 C 382.086 269.658 336.96 274.054 307.911 279.033 C 269.884 285.551 248.972 292.665 242.613 294.148 C 232.58 296.488 209.108 308.947 203.712 314.105 C 198.138 319.433 187.695 355.308 188.993 353.213 L 184.962 351.997 Z" style="fill: rgb(191, 104, 104); stroke: rgb(255, 255, 255); stroke-width: 0;"/>
+  <text transform="matrix(1, 0, 0, 0.999999, 235.979645, 323.810883)" x="0" y="0" style="fill: rgb(191, 104, 104); font-size: 25px; font-style: italic; white-space: pre;">Yield Curve</text>
+</svg>

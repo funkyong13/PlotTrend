@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 488 377" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 286.319489, 259.117981)" xlink:href="#pattern-0"/>
+    <pattern id="pattern-1" viewBox="0 0 4.935 176.246" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100">
+      <rect x="293.852" y="180.995" width="4.935" height="176.246" style="fill: url(#pattern-0-0);" transform="matrix(1, 0, 0, 1, -293.8519592285156, -180.9949951171875)"/>
+    </pattern>
+    <pattern id="pattern-2" viewBox="0 0 100 100" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100"/>
+    <pattern id="pattern-3" viewBox="0 0 100 100" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100"/>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Audiowide:400);</style>
+  </defs>
+  <rect transform="matrix(1.000001, 0, 0, 1, -412.816588, -20.262353)" x="421.586" y="34.213" width="9.714" height="345.817" style="stroke: rgb(255, 255, 255); fill: rgb(103, 103, 103);"/>
+  <rect x="8.816" y="359.54" width="468.213" height="9.547" style="fill: rgb(103, 103, 103); stroke: rgb(255, 255, 255);"/>
+  <path d="M 75.451 331.164 L 122.601 322.052 L 217.389 247.108 L 270.321 166.334 L 296.767 137.566 L 292.15 134.116 L 289.272 129.368 L 261.438 160.312 L 210.877 237.851 C 210.877 237.851 116.837 311.525 115.938 311.525 C 115.039 311.525 72.718 317.849 72.718 317.849 L 75.451 331.164 Z" style="stroke: rgb(255, 255, 255); fill: rgb(177, 177, 177);"/>
+  <path d="M 116.926 60.458" style="fill: none; stroke: black;"/>
+  <ellipse cx="142.185" cy="319.507" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="145.482" cy="279.944" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="194.275" cy="277.307" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="194.275" cy="239.723" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="246.365" cy="225.876" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="228.192" cy="200.999" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="265.487" cy="149.389" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="291.745" cy="155.44" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="289.479" cy="135.145" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="265.155" cy="164.429" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);" transform="matrix(0.999999, 0, 0, 1, -13.987436, 13.559616)"/>
+  <ellipse cx="263.157" cy="174.42" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);"/>
+  <ellipse cx="246.365" cy="225.876" rx="10.88" ry="10.22" style="fill-opacity: 0.3; fill: rgb(199, 61, 61);" transform="matrix(0.999999, 0, 0, 1, -22.021398, 20.583023)"/>
+  <path d="M 307.986 127.541 L 299.43 118.44 L 325.056 96.034 L 352.445 70.85 L 342.473 62.446 L 383.31 49.205 C 383.31 49.205 370.079 89.129 369.591 88.641 C 369.103 88.153 359.001 77.477 359.001 77.477 L 307.986 127.541 Z" style="stroke: rgb(255, 255, 255); fill: rgb(191, 104, 104);"/>
+  <text x="49.841" y="98.411" style="fill: rgb(191, 104, 104); font-family: Audiowide; font-size: 52.7px; font-style: italic; text-transform: lowercase; white-space: pre;"><tspan style="text-transform: uppercase;">P</tspan><tspan>(t)</tspan></text>
+  <text x="50.437" y="175.001" style="fill: rgb(191, 104, 104); font-family: Audiowide; font-size: 52.7px; font-style: italic; text-transform: uppercase; white-space: pre;">EPS</text>
+  <text x="289.722" y="279.287" style="fill: rgb(191, 104, 104); font-family: Audiowide; font-size: 52.7px; font-style: italic; text-transform: lowercase; white-space: pre;"><tspan style="text-transform: uppercase;">D</tspan><tspan>iv</tspan></text>
+</svg>

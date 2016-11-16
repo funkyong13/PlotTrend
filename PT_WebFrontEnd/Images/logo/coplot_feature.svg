@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 488 377" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 286.319489, 259.117981)" xlink:href="#pattern-0"/>
+    <pattern id="pattern-1" viewBox="0 0 4.935 176.246" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100">
+      <rect x="293.852" y="180.995" width="4.935" height="176.246" style="fill: url(#pattern-0-0);" transform="matrix(1, 0, 0, 1, -293.8519592285156, -180.9949951171875)"/>
+    </pattern>
+    <pattern id="pattern-2" viewBox="0 0 100 100" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100"/>
+    <pattern id="pattern-3" viewBox="0 0 100 100" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="100" height="100"/>
+  </defs>
+  <rect transform="matrix(1.000001, 0, 0, 1, -412.816588, -20.262353)" x="421.586" y="34.213" width="9.714" height="345.817" style="stroke: rgb(255, 255, 255); fill: rgb(103, 103, 103);"/>
+  <rect x="8.816" y="359.54" width="468.213" height="9.547" style="fill: rgb(103, 103, 103); stroke: rgb(255, 255, 255);"/>
+  <path d="M 63.091 271.894 L 189.118 240.352 L 306.306 195.098 L 391.87 61.489 L 408.178 71.891 L 405.337 21.651 L 358.499 42.678 L 374.929 51.67 L 298.867 184.696 C 298.867 184.696 184.673 219.764 183.774 219.764 C 182.875 219.764 58.789 245.839 58.789 245.839 L 63.091 271.894 Z" style="stroke: rgb(255, 255, 255); fill: rgb(239, 159, 159); fill-opacity: 0.8;"/>
+  <path d="M 39.567 246.898 L 188.154 210.421 L 295.472 169.397 L 375.396 286.762 L 352.93 303.51 L 411.423 327.293 L 412.523 259.492 L 388.77 276.239 L 301.428 155.47 C 301.428 155.47 185.823 198.293 184.924 198.293 C 184.025 198.293 35.265 220.843 35.265 220.843 L 39.567 246.898 Z" style="stroke: rgb(255, 255, 255); fill: rgb(255, 222, 173); fill-opacity: 0.7;"/>
+  <rect x="303.327" y="200.463" width="6.836" height="157.229" style="stroke: rgb(255, 255, 255); fill: rgb(226, 226, 226);"/>
+  <path d="M 37.872 250.17 L 153.047 202.767 L 305.199 158.813 L 351.329 58.025 L 363.516 64.718 L 363.972 25.192 L 327.024 43.747 L 339.745 51.09 L 301.984 154.172 C 301.984 154.172 148.601 195.536 147.702 195.536 C 146.803 195.536 35.239 240.812 35.239 240.812 L 37.872 250.17 Z" style="stroke: rgb(255, 255, 255); fill-opacity: 0.5; fill: rgb(155, 173, 141);"/>
+  <ellipse cx="150.317" cy="95.813" rx="65.799" ry="63.835" style="fill: rgb(255, 222, 173); fill-opacity: 0.7; stroke: rgb(255, 255, 255); stroke-width: 2;"/>
+  <path d="M 149.019 94.095 L 142.314 52.479 L 139.399 33.143 C 84.438 40.037 60.854 114.775 109.436 147.131 L 149.019 94.095 Z" style="stroke: rgb(255, 255, 255); fill: rgb(239, 159, 159); fill-opacity: 0.8; stroke-width: 2;"/>
+  <path d="M 116.926 60.458" style="fill: none; stroke: black;"/>
+  <path d="M 148.883 93.662 L 109.605 146.621 C 169.287 184.016 219.418 133.454 215.98 93.57 L 148.883 93.662 Z" style="stroke: rgb(255, 255, 255); fill: rgb(182, 193, 174); stroke-width: 2;"/>
+</svg>

@@ -1,0 +1,235 @@
+/* PLOT TREND FRONT-CSS END. BY GYU LIM Nov 2016 ---------------------------------------------*/
+
+
+/* HEADER ____________________________________________________________________________________*/
+.header-row {
+	margin:0;
+	width:100%;
+	height: 50px;
+}
+
+.header-row .logo-col{
+	margin:0;
+	background: white;
+	padding-top: 5px;
+	height:50px;
+	text-align: left;
+	box-shadow: 8px 1px 15px 1px #bf6868
+}
+
+.header-row .menu-col{
+	margin:0;
+	background: white;
+	height:50px;
+	text-align: right;
+	box-shadow: 8px 3px 15px 1px #bf6868
+}
+
+.header-row .menu-col ul li{
+	padding-top: 15px;
+	padding-left: 35px;
+	font-size: 12pt;
+	display:inline-block
+}
+
+.header-row .menu-col ul li a{
+	margin:0;
+	color: #bf6868;
+	text-decoration: none
+}
+
+.header-row .linkedin-col{
+	margin:0;
+	background:white;
+	height:50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	box-shadow: 8px 3px 15px 1px #bf6868
+}
+
+
+/* Contents: Front Image _______________________________________________________________________*/
+.FrontPage {
+	background-image: url(../Images/FrontPage.png) ;
+	height: 500px;
+	background-position: center center;
+	background-size: cover;
+}
+
+.FrontPage .container{
+	color: white;
+	text-align: center;
+	transform: translate(0%, 50%);
+}
+
+.FrontPage .container h1{
+	font-family: "Audiowide";
+	font-size: 65pt;
+	color: #efc9c9;
+}
+.FrontPage .container h2{
+	font-family: "Audiowide";
+	font-size: 30pt;
+}
+
+.FrontPage .container h2 #FinTech{
+	color: #ffdead;
+}
+
+.FrontPage .container h2 #mtl{
+	color: #d4ffde;
+}
+
+
+
+
+/* Contents: App Contents _______________________________________________________________________*/
+.Contents {
+	margin-top:40px;
+	margin-bottom:30px;
+}
+.Contents h1{
+	font-family: "jura";
+	color: #444;
+	text-align: center;
+}
+
+.Contents h1 #plottrend{
+	font-family: "Audiowide";
+	color: #bf6868;
+	text-align: center;
+}
+
+.Contents .container{
+	margin-top:20px;
+	background: white;
+	text-align: center;
+	color: #bf6868;
+	font-family: "Audiowide";
+	font-size: 18pt;
+}
+
+.Contents .container p{
+	color: #444;
+	font-family: "jura";
+	font-size: 15pt;
+}
+
+
+
+
+
+/* Team ____________________________________________________________________________________________*/
+.Team{
+	margin-top: 50px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+.Team h1 {
+	margin-top: 20px;
+	margin-bottom:20px;
+	font-family: "Audiowide";
+	text-align: center;
+	color: #525252;
+	font-size: 35pt;
+}
+
+.Team h2 {
+	margin-top: 10px;
+	padding:10px;
+	font-family: "Audiowide";
+	text-align: center;
+	color: #bf6868;
+	font-size: 20pt;
+}
+
+.Team h2 img{
+	padding-bottom:5px;
+}
+
+
+
+
+.Team .container {
+	text-align : center;
+}
+
+.Team .container p{
+	margin:0;
+	padding: 5px;
+	font-size : 15pt;
+	font-family: "jura";
+}
+
+
+
+
+/* Trend Grapher   _________________________________________________________________________________*/
+.TrendGrapher {
+	margin-top:20px;
+	margin-left:50px;
+	margin-right: 50px;
+}
+
+.TrendGrapher h1{
+	font-family:"Audiowide";
+	color:#525252;
+	font-size: 30pt;
+}
+
+.TrendGrapher p{
+	margin:0;
+	font-family:"jura";
+	color:#525252;
+	font-size: 12pt;
+}
+
+.TrendGrapher .container{
+	margin: 30px;
+	width: 600px;
+}
+
+
+
+
+/* Contact Us ______________________________________________________________________________________*/
+.ContactUs {
+	margin-top:50px;
+	margin-left:50px;
+}
+
+.ContactUs h1{
+	font-family:"Audiowide";
+	color:#525252;
+	font-size: 30pt;
+	margin-bottom: 50px;
+}
+.ContactUs h2{
+	font-family:"Audiowide";
+	color:#525252;
+	font-size: 25pt;
+	margin-left: 40px;
+}
+
+.Contactus p{
+	font-family:"jura";
+	font-size: 14pt;
+	margin-left: 40px;
+
+}
+
+
+/* Footer ______________________________________________________________________________________*/
+.footer {
+	background: white;
+	margin:0
+	padding:0;
+	text-align: center;
+    width: 100%;
+    border-top: #efc9c9 solid;
+    border-width: 1pt;
+    font-family: "jura";
+    font-size: 13pt;
+}

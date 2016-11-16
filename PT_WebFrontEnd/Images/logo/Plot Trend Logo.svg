@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-1980 -2481 1258 229" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Audiowide:400|Cantora+One:400);</style>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <path d="M 148.563 164.987 L 148.563 164.987 Z" style="stroke: black; fill: none;"/>
+  <text x="-1613.329" y="-2334.594" style="font-family: &quot;Cantora One&quot;; font-size: 140px; white-space: pre;"> </text>
+  <rect x="353.634" y="-71.365" width="34.779" height="137.18" transform="matrix(0.999998, 0, 0, 1, -2156.045491, -2364.332544)" style="fill-opacity: 0.4; fill: rgb(165, 38, 38);"/>
+  <rect x="257.993" y="24.276" width="32.846" height="45.405" style="fill-opacity: 0.4; fill: rgb(165, 38, 38);" transform="matrix(0.999998, 0, 0, 1.000001, -2156.045633, -2364.332655)"/>
+  <rect x="338.176" y="27.892" width="36.71" height="97.572" transform="matrix(-0.999999, 0, 0, 1, -1479.694403, -2420.116617)" style="fill-opacity: 0.4; fill: rgb(165, 38, 38);"/>
+  <path d="M -1919.306 -2310.111 L -1878.732 -2370.971 L -1858.444 -2349.719 L -1835.259 -2399.954 L -1824.632 -2378.7 L -1784.057 -2432.8 L -1810.141 -2432.8 L -1760.872 -2453.087 L -1770.532 -2404.784 L -1775.363 -2426.038 L -1824.632 -2354.549 L -1835.259 -2376.769 L -1855.546 -2332.33 L -1873.901 -2346.821 L -1902.883 -2296.585 C -1908.68 -2298.196 -1915.442 -2307.856 -1919.306 -2310.111 Z" style="stroke: rgb(255, 255, 255); stroke-linejoin: round; fill-rule: evenodd; fill: rgb(181, 72, 72);"/>
+  <ellipse transform="matrix(NaN, NaN, NaN, NaN, NaN, NaN)" style="fill: rgb(216, 216, 216);"/>
+  <path d="M 141.801 64.516 Q 141.801 64.516 141.801 64.516 Z" style="stroke: black; fill: rgb(186, 218, 85);"/>
+  <rect transform="matrix(0.999987, 0, 0, 1, -2882.982878, -2739.029745)" x="944.367" y="290.773" width="9.66" height="174.857" style="fill: rgb(41, 39, 39); stroke: rgb(255, 255, 255);"/>
+  <text x="-1718.285" y="-2303.239" style="fill: rgb(191, 104, 104); font-family: Audiowide; font-size: 175px; stroke: rgb(255, 255, 255); white-space: pre;">PlotTrend</text>
+  <rect transform="matrix(0, 0.999994, -1, 0, -2054.515585, -1339.095749)" x="-944.34" y="-290.773" width="9.66" height="174.857" style="fill: rgb(41, 39, 39); stroke: rgb(255, 255, 255);"/>
+</svg>
